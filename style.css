@@ -1,0 +1,59 @@
+#rightCol {
+  	display:none !important;
+}
+
+#contentArea {
+  width:95% !important;
+}
+
+#leftCol {
+  background:#2c2c2c !important;
+  border-radius:10px !important;
+  color:#FFF !important;
+  margin-top:20px !important;
+}
+
+#leftCol span, #leftCol a {
+  color:#FFF !important;
+}
+
+._4f7n {
+    background-image:none !important;
+    background-color:#2c2c2c !important;
+  }
+  
+a.jewelButton, ._59fb, ._50__ {
+     filter: grayscale(100%); /* Current draft standard */
+    -webkit-filter: grayscale(100%); /* New WebKit */
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%); 
+    -o-filter: grayscale(100%); /* Not yet supported in Gecko, Opera or IE */ 
+    filter: url(resources.svg#desaturate); /* Gecko */
+    filter: gray; /* IE */
+    -webkit-filter: grayscale(1); /* Old WebKit */
+ }
+
+._5q5b .fbNubFlyoutTitlebar {
+  	  background-image:none !important;
+      background-color:#2c2c2c !important;
+ }
+
+.fbx #globalContainer {
+    width:100% !important;
+    padding-left:2% !important;
+  }
+  
+  .sidebarMode ._uaw {
+        padding-right:0px !important;
+      }
+
+._5q5b .fbNubFlyoutTitlebar {
+  border:2px solid #2c2c2c !important;
+    }
+      
+@media (max-width: 621px) {
+      #leftCol {
+        font-size:0.7em !important;
+       
+      }
+    }
